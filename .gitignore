@@ -1,0 +1,20 @@
+# Node modules folder
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache folder
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# OS files
+.DS_Store
+Thumbs.db
