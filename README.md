@@ -59,7 +59,7 @@ Demo: https://todo-frontend-theta-bice.vercel.app/
 
    ```bash
    git clone https://github.com/your_username/your_repo_name.git
-   cd todo-backend
+   cd your_repo_name
    ```
 2. Install dependencies:
 
